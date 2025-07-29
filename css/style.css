@@ -20,14 +20,16 @@
 * 	Template Style 
 *
 * ======================================================= */
+
 body {
-  font-family: Helvetica, Sans-Serif;
+  font-family:'Goldman',Sans-Serif;
   font-weight:100;
   font-size: 15px;
   line-height: 2;
   color: #828282;
   background: #fff;
 }
+
 
 #page {
   position: relative;
@@ -75,7 +77,7 @@ p {
 
 h1, h2, h3, h4, h5, h6, figure {
   color: #000;
-  font-family: "Montserrat", Arial, sans-serif;
+  font-family:'Goldman',Sans-Serif;
   font-weight: 400;
   margin: 0 0 20px 0;
 }
@@ -129,7 +131,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding: 0;
   text-transform: uppercase;
   font-weight: bold;
-  font-family: "Montserrat", Arial, sans-serif;
+   font-family:'Goldman',Sans-Serif;
 }
 .fh5co-nav .fh5co-social {
   margin: 3px 0 0 0;
@@ -202,7 +204,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0;
   list-style: none;
   display: inline-block;
-  font-family: "Montserrat", Arial, sans-serif;
+  font-family:'Goldman',Sans-Serif;
 }
 .fh5co-nav ul li a {
   text-transform: uppercase;
@@ -1532,4 +1534,6 @@ section::after {
   0%   { transform:translate(0,-10px) rotate(45deg); opacity: 0;  }
   50%  { opacity: 1;  }
   100% { transform:translate(0,10px) rotate(45deg); opacity: 0; }
-}
+
+
+
